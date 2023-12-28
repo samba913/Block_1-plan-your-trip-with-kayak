@@ -1,0 +1,6 @@
+id,city,lat,lon,datetime,temp_min,temp_max,humidity,wind_speed,weather_main,weather_description,temp_average
+28,Collioure,42.52505,3.0831554,2023-12-02 21:00:00,6.8,8.46,78,9.56,Clouds,few clouds,8.0
+34,Bayonne,43.4945144,-1.4736657,2023-12-02 21:00:00,6.49,7.12,93,2.67,Clouds,broken clouds,7.0
+33,Biarritz,43.4832523,-1.5592776,2023-12-02 21:00:00,7.37,7.62,93,2.11,Clouds,broken clouds,7.0
+26,Aigues Mortes,43.5661521,4.19154,2023-12-02 21:00:00,4.24,4.84,45,5.55,Clear,clear sky,5.0
+19,Bormes les Mimosas,43.1506968,6.3419285,2023-12-02 21:00:00,4.23,4.6,50,11.92,Clear,clear sky,4.0
